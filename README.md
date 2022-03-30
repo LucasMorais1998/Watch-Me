@@ -24,18 +24,29 @@
 <div>
   <ul>
     <li>
-      <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge" title="Typescript" />  </li>
+     <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge" title="Typescript" />
+     </a> 
+    </li> 
     <li>
+     <a href="https://reactjs.org/" target="_blank">
       <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React badge" title="React" />
+     </a>
     </li>
     <li>
-      <img src= "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS badge" title="SASS" />
+     <a href="https://sass-lang.com/" target="_blank">
+       <img src= "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS badge" title="SASS" />
+     </a> 
     </li>
     <li>
-      <img src= "https://img.shields.io/badge/-Axios-blueviolet" width="55px" alt="Axios badge" title="Axios" />
+      <a href="https://axios-http.com/" target="_blank">
+       <img src= "https://img.shields.io/badge/-Axios-blueviolet" width="55px" alt="Axios badge" title="Axios" />
+      </a>
     </li>
     <li>
-      <img src= "https://img.shields.io/badge/-JSON%20Server-lightgrey" width="108px" alt="JSON Server badge" title="JSON Server" />
+     <a href="https://www.npmjs.com/package/json-server" target="_blank">
+       <img src= "https://img.shields.io/badge/-JSON%20Server-lightgrey" width="108px" alt="JSON Server badge" title="JSON Server" />
+     </a>
     </li>
   </ul>
 </div>
@@ -44,9 +55,16 @@
 <h2 id="pre-requisitos"> ✔ Pré-requisitos </h1> 
 <p> Para rodar essa aplicação é preciso ter instalado as seguintes ferramentas: <strong>Git</strong>, <strong>Nodejs</strong> e um <strong>Editor</strong> de sua preferência.</p>
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" alt="git icon" title="Git" />
+ <a href="https://git-scm.com/" target="_blank" style="text-decoration:none">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" alt="git icon" title="Git" /> 
+ </a>
+ <span></span>
+ <a href="https://nodejs.org/en/" target="_blank" style="text-decoration:none">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" alt="node.js icon" title="NodeJs" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode icon" title="Visual Studio Code" />
+ </a>
+ <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode icon" title="Visual Studio Code" />
+ </a>
 </div>  
 <br />
 
