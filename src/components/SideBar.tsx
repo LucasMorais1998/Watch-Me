@@ -37,7 +37,6 @@ export function SideBar({ handleClickButton, selectedGenreId } : SideBarProps) {
           />
         ))}
       </div>
-
     </nav>
   );
 }
