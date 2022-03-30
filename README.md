@@ -73,7 +73,7 @@
 <p> Clone este repositório:</p>
 
 ```bash
-$ git clone https://github.com/LucasMorais1998/watchme.git
+$ git clone https://github.com/LucasMorais1998/Watch-Me.git
 ```
 
 <p> Acesse o a pasta da aplicação:</p>
